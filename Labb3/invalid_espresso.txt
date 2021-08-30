@@ -1,0 +1,14 @@
+[[menu, [fill_beans, fill_water, make_espresso]],
+ [fill_beans, [menu]],
+ [fill_water, [menu]],
+ [make_espresso, [menu]]].
+
+[[menu,[]],
+ [fill_beans, []],
+ [fill_water, []],
+ [make_espresso, [beans, water]]].
+
+menu.
+
+eg(and(beans, water)).
+

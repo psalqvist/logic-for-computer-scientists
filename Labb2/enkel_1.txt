@@ -1,0 +1,6 @@
+[p].
+p.
+% Beviset
+[
+[1, p, premise]
+].
